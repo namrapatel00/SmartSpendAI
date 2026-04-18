@@ -1,0 +1,23 @@
+# C# / .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.db
+*.db-shm
+*.db-wal
+appsettings.Development.json
+
+# React / Node
+node_modules/
+build/
+.env
+.env.local
+.DS_Store
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
